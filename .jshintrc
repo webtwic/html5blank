@@ -10,7 +10,7 @@
   "jquery": true,
   "noarg": true,
   "onevar": true,
-  "quotmark": "double",
+  "quotmark": "single",
   "smarttabs": true,
   "trailing": true,
   "undef": true,
