@@ -1,10 +1,10 @@
 {
-  "name": "HTML5Blank",
-  "version": "1.5.0",
-  "author": "Todd Motto",
+  "name": "Webtwic",
+  "version": "1.0.0",
+  "author": "Olaolu Olawuyi",
   "devDependencies": {
-    "jquery": "latest",
-    "modernizr": "latest",
+    "jquery": "~3.1.0",
+    "modernizr": "~2.8.3",
     "normalize.css": "~3.0.1"
   }
 }
